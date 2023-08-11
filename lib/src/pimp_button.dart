@@ -1,4 +1,4 @@
-library pimp_my_button;
+library pimp_button;
 
 import 'dart:math';
 import 'package:flutter/material.dart';

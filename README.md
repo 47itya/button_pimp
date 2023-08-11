@@ -1,5 +1,5 @@
 # Showcase
-![pimp_my_button-showcase](media/pimp_my_gif.gif "pimp_my_button-showcase")
+![pimp_button-showcase](media/pimp_my_gif.gif "pimp_button-showcase")
 
 # Features
 
@@ -13,11 +13,11 @@ I will publish this package on pub if people enjoy it. So leave a star if you do
 
 ```yaml
 dependencies:
-  pimp_my_button: ^1.0.0
+  pimp_button: ^1.0.0
 ```
 run packages get and import it
 ```
-import 'package:pimp_my_button/pimp_my_button.dart';
+import 'package:pimp_button/pimp_button.dart';
 ```
 **If you are not able to import it, restart your IDE see: https://github.com/flutter/flutter/issues/17016**
 
@@ -145,7 +145,7 @@ class DemoParticle extends Particle {
 - `PoppingCircle`, pretty popping circle
 
 ### Check out other demo particles:
-https://github.com/Norbert515/pimp_my_button/blob/master/lib/src/demo_particles.dart
+https://github.com/Norbert515/pimp_button/blob/master/lib/src/demo_particles.dart
 
 ### You are not restricted to use the particles in the context of "Pimp my button", the particles can be drawn on any regular canvas.
 

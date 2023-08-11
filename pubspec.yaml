@@ -1,7 +1,7 @@
-name: pimp_my_button
+name: pimp_button
 description: A package which adds a much needed feature to all pressable objects.
 version: 1.0.0
-homepage: 'https://github.com/Norbert515/pimp_my_button'
+homepage: 'https://github.com/47itya/button_pimp'
 
 environment:
   # Works in Dart 1 (starting with 1.20.1), and works in Dart 2.
